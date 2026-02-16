@@ -18,15 +18,5 @@ streamlit run app.py
 
 ## Submission (for students)
 - Streamlit deployed link 
-- Streamlit Community Cloud Link:
+- Streamlit Community Cloud Link:https://lab06imt561johansen-n8w2xfa59tr5p2u5n6nees.streamlit.app/
 - Short README describing audience + tasks (I put it in the streamlit footer)
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
-# Lab06IMT561_Johansen
